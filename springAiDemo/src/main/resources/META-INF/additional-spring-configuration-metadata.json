@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "ollama.model.llama",
+    "type": "java.lang.String",
+    "description": "A description for 'ollama.model.llama'"
+  },
+  {
+    "name": "ollama.model.phi4",
+    "type": "java.lang.String",
+    "description": "A description for 'ollama.model.phi4'"
+  },
+  {
+    "name": "ollama.model.phi",
+    "type": "java.lang.String",
+    "description": "A description for 'ollama.model.phi'"
+  },
+  {
+    "name": "ollama.model.gemma",
+    "type": "java.lang.String",
+    "description": "A description for 'ollama.model.gemma'"
+  },
+  {
+    "name": "ollama.model.gemma3",
+    "type": "java.lang.String",
+    "description": "A description for 'ollama.model.gemma3'"
+  }
+]}
